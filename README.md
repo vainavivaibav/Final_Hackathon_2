@@ -30,5 +30,3 @@ This project predicts demand, detects delays, optimizes suppliers, and provides 
 - Libraries: pandas, numpy, scikit-learn, plotly
 
 ---
-
-## Project Structure
